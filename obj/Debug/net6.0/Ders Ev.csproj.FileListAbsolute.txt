@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Ders Ev\bin\Debug\net6.0\Ders Ev.exe
+C:\Users\user\source\repos\Ders Ev\bin\Debug\net6.0\Ders Ev.deps.json
+C:\Users\user\source\repos\Ders Ev\bin\Debug\net6.0\Ders Ev.runtimeconfig.json
+C:\Users\user\source\repos\Ders Ev\bin\Debug\net6.0\Ders Ev.dll
+C:\Users\user\source\repos\Ders Ev\bin\Debug\net6.0\Ders Ev.pdb
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.AssemblyInfo.cs
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.dll
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\refint\Ders Ev.dll
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.pdb
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\Ders Ev.genruntimeconfig.cache
+C:\Users\user\source\repos\Ders Ev\obj\Debug\net6.0\ref\Ders Ev.dll
